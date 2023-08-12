@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bc68347-4058-4b8a-a162-d0ba98cd4f87" name="Changes" comment="feat: SelectionSort">
-      <change afterPath="$PROJECT_DIR$/排序/Code03_BubbleSort.java" afterDir="false" />
+    <list default="true" id="0bc68347-4058-4b8a-a162-d0ba98cd4f87" name="Changes" comment="feat: BubbleSort">
+      <change afterPath="$PROJECT_DIR$/排序/Code04_InsetSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Code03_BubbleSort">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Code04_InsetSort">
     <configuration name="Code01_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_Print" />
       <module name="algorithm" />
@@ -63,8 +68,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code04_InsetSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code04_InsetSort" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code04_InsetSort" />
         <item itemvalue="Application.Code03_BubbleSort" />
         <item itemvalue="Application.Code02_SelectionSort" />
         <item itemvalue="Application.Code01_Print" />
@@ -92,7 +105,7 @@
       <workItem from="1691860419596" duration="323000" />
       <workItem from="1691860769730" duration="166000" />
       <workItem from="1691860943365" duration="8000" />
-      <workItem from="1691860964265" duration="302000" />
+      <workItem from="1691860964265" duration="2648000" />
     </task>
     <task id="LOCAL-00001" summary="feat: SelectionSort">
       <created>1690270116770</created>
@@ -101,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690270116770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: BubbleSort">
+      <created>1691861534776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691861534776</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +140,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: SelectionSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: SelectionSort" />
+    <MESSAGE value="feat: BubbleSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: BubbleSort" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/排序/Code04_InsetSort.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
